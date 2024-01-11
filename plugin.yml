@@ -1,0 +1,11 @@
+name: BetterFT
+version: 1.0.0-alpha
+author: Katsu
+api: 5.0.0
+main: Katsu\BetterFT\Main
+description: Adds customizable floating text to your server.
+
+permissions:
+  betterft.cmd:
+    description: Allows the OP to create,edit and remove floating text.
+    default: op
