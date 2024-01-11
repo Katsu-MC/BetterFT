@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/Katsu/BetterFT"><img src="https://github.com/Katsu/BetterFT/blob/main/icon.png"></img></a><br>
+    <a href="https://github.com/Katsu-MC/BetterFT"><img src="https://github.com/Katsu-MC/BetterFT/blob/main/icon.png"></img></a><br>
     <b>Floating Text for Pocketmine-MP</b>
   
 # Description
