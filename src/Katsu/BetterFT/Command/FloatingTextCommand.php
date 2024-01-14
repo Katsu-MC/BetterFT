@@ -21,7 +21,7 @@ class FloatingTextCommand extends Command implements PluginOwned {
 
     public function __construct(Main $plugin, string $ftFolderPath) {
         parent::__construct("ft", "§r§eManage Floating Texts", null, ["floatingtext"]);
-        $this->setPermission("floatingtextpe.text");
+        $this->setPermission("betterft.cmd");
         $this->plugin = $plugin;
         $this->ftFolderPath = $ftFolderPath;
     }
